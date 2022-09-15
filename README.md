@@ -29,7 +29,7 @@ The goal of this project is to create a tool that will extract input number of c
 
 ## <b> Image Upload and Color Palette </b>
 
-
+<img width="1440" alt="Screen Shot 2022-09-15 at 7 32 25 PM" src="https://user-images.githubusercontent.com/59255928/190410992-4fc5d362-31e6-4148-a57e-c271162bbdd2.png">
 
 When a user uploads an image, the color palette of that input image is displayed.
 
