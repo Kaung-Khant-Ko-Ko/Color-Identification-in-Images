@@ -2,18 +2,18 @@
 
 ## <b> Overview </b>
 
-The goal of this project is to create a tool that will extract input number of colors from an image.
+The goal of this project is to create a tool that will extract input numbers of the most significant colors from the user-inputted image.
 
 ## <b> Install requirements </b>
 
 ```
-(base) kaungkhantkoko@Kaungs-MacBook-Air ~ % pip3 install requirements.txt
+pip3 install requirements.txt
 ```
 
 ## <b> Run app </b>
 
 ```
-(base) kaungkhantkoko@Kaungs-MacBook-Air ~ % streamlit run app.py
+streamlit run app.py
 ```
 
 ## <b> Libraries Used </b>
@@ -34,5 +34,5 @@ The goal of this project is to create a tool that will extract input number of c
 When a user uploads an image, the color palette of that input image is displayed.
 
 ## <b> References </b>
-* The `sample_image.jpg` was taken from reference article and the other 9 images from `images` folder were taken from [Unsplash](https://unsplash.com/).
+* The `sample_image.jpg` was taken from the reference article and the other 9 images from the `images` folder were taken from [Unsplash](https://unsplash.com/).
 * [Reference Article](https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71)
